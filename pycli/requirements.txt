@@ -1,0 +1,4 @@
+click
+cryptography==3.4.8
+func-timeout
+setuptools==58
